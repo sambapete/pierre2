@@ -1,0 +1,55 @@
+{
+    "course/2014_A": {
+        "announcement": "2029-12-31T00:00:00Z", 
+        "catalog_visibility": "none", 
+        "course_image": "udem-ete-image-montreal.jpg", 
+        "discussion_topics": {
+            "G\u00e9n\u00e9ral": {
+                "id": "i4x-UMontreal-Test01-course-2014_A"
+            }
+        }, 
+        "display_name": "Tests-RGL", 
+        "enrollment_start": null, 
+        "giturl": "git@github.com:sambapete/pierre2.git", 
+        "invitation_only": true, 
+        "ispublic": false, 
+        "start": "2025-01-02T00:00:00Z", 
+        "tabs": [
+            {
+                "name": "Courseware", 
+                "type": "courseware"
+            }, 
+            {
+                "name": "Course Info", 
+                "type": "course_info"
+            }, 
+            {
+                "name": "Textbooks", 
+                "type": "textbooks"
+            }, 
+            {
+                "name": "Discussion", 
+                "type": "discussion"
+            }, 
+            {
+                "name": "Wiki", 
+                "type": "wiki"
+            }, 
+            {
+                "name": "Progress", 
+                "type": "progress"
+            }, 
+            {
+                "name": "Vide", 
+                "type": "static_tab", 
+                "url_slug": "4a58498a4cdd4891baa3bbd5db2515e5"
+            }
+        ], 
+        "xml_attributes": {
+            "filename": [
+                "course/2014_A.xml", 
+                "course/2014_A.xml"
+            ]
+        }
+    }
+}
