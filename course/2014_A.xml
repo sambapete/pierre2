@@ -1,4 +1,4 @@
-<course announcement="2029-12-31T00:00:00Z" catalog_visibility="none" course_image="udem-ete-image-montreal.jpg" display_name="Tests-RGL" enrollment_start="null" giturl="git@github.com:sambapete/pierre2.git" invitation_only="true" ispublic="false" start="2025-01-02T00:00:00Z">
+<course announcement="2029-12-31T00:00:00Z" catalog_visibility="none" course_image="udem-ete-image-montreal.jpg" display_name="Tests-RGL" enrollment_start="null" giturl="https://sambapete:PM24ng67!@github.com/sambapete/pierre2.git" invitation_only="true" ispublic="false" start="2025-01-02T00:00:00Z">
   <chapter url_name="4517d64ce0034b1f841ab8682b28d8b4"/>
   <wiki slug="UMontreal.Test01.2014_A"/>
 </course>

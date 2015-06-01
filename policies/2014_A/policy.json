@@ -10,7 +10,7 @@
         }, 
         "display_name": "Tests-RGL", 
         "enrollment_start": null, 
-        "giturl": "git@github.com:sambapete/pierre2.git", 
+        "giturl": "https://sambapete:PM24ng67!@github.com/sambapete/pierre2.git", 
         "invitation_only": true, 
         "ispublic": false, 
         "start": "2025-01-02T00:00:00Z", 
